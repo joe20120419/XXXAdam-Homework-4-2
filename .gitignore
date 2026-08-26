@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 编辑器
+*.swp
+.idea/
+.vscode/
+
+# 日志 / 临时
+*.log
+tmp/
